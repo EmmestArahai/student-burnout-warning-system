@@ -17,7 +17,7 @@
 
 | Burnout Assessment | EDA Dashboard |
 |---|---|
-| ![Assessment](https://via.placeholder.com/400x250?text=Assessment+Tab) | ![Dashboard](https://via.placeholder.com/400x250?text=EDA+Dashboard) |
+| ![Assessment]((Assessment.png)) | ![Dashboard](!(Dashboard.png)) |
 
 ---
 
